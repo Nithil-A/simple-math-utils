@@ -1,6 +1,6 @@
 {
   "name": "node-simple-math-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple utility library for common mathematical operations.",
   "main": "index.js",
   "scripts": {
