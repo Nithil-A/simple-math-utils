@@ -73,4 +73,4 @@ A prime number is a natural number greater than 1 that has no positive divisors 
 
 
 ```sh
-npm install simple-math-utils
+npm install node-simple-math-utils
