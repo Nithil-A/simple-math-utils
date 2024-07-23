@@ -1,0 +1,25 @@
+{
+  "name": "simple-math-utils",
+  "version": "1.0.0",
+  "description": "A simple utility library for common mathematical operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nithil-A/simple-math-utils.git"
+  },
+  "keywords": [
+    "math",
+    "amstrong",
+    "prime",
+    "math-util"
+  ],
+  "author": "Nithil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nithil-A/simple-math-utils/issues"
+  },
+  "homepage": "https://github.com/Nithil-A/simple-math-utils#readme"
+}
